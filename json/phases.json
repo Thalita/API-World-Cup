@@ -17,6 +17,10 @@
     },
     {
         "Id": 5,
+        "Name": "Terceiro lugar"
+    },
+    {
+        "Id": 6,
         "Name": "Final"
     }
 ]

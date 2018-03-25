@@ -13,20 +13,20 @@ namespace WorldCup2018.Models
 
         [JsonProperty]
         [JsonConverter(typeof(Converters.TeamConverter))]
-        public Team TeamOne { get; set; }
+        public virtual Team TeamOne { get; set; }
 
         [JsonProperty]
         [JsonConverter(typeof(Converters.TeamConverter))]
-        public Team TeamTwo { get; set; }
+        public virtual Team TeamTwo { get; set; }
 
         public DateTime Date { get; set; } 
 
         [JsonProperty]
         [JsonConverter(typeof(Converters.PhaseConverter))]
-        public Phase Phase {get;set;} 
+        public virtual Phase Phase {get;set;} 
         
         [JsonProperty]
         [JsonConverter(typeof(Converters.StadiumConverter))]  
-        public Stadium Stadium {get;set;}   
+        public virtual Stadium Stadium {get;set;}   
     }
 }

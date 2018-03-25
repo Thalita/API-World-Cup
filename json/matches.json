@@ -238,6 +238,291 @@
         "Date":"2018-06-27 15:00",
         "Phase": 1,
         "Stadium":11
+    },
+    {
+        "Id":31,
+        "TeamOne":21,
+        "TeamTwo":22,
+        "Date":"2018-06-17 12:00",
+        "Phase": 1,
+        "Stadium":1
+    },
+    {
+        "Id":32,
+        "TeamOne":23,
+        "TeamTwo":24,
+        "Date":"2018-06-18 09:00",
+        "Phase": 1,
+        "Stadium":12
+    },
+    {
+        "Id":33,
+        "TeamOne":21,
+        "TeamTwo":23,
+        "Date":"2018-06-23 12:00",
+        "Phase": 1,
+        "Stadium":7
+    },
+    {
+        "Id":34,
+        "TeamOne":24,
+        "TeamTwo":22,
+        "Date":"2018-06-23 15:00",
+        "Phase": 1,
+        "Stadium":4
+    },
+    {
+        "Id":35,
+        "TeamOne":22,
+        "TeamTwo":23,
+        "Date":"2018-06-27 11:00",
+        "Phase": 1,
+        "Stadium":2
+    },
+    {
+        "Id":36,
+        "TeamOne":21,
+        "TeamTwo":24,
+        "Date":"2018-06-27 11:00",
+        "Phase": 1,
+        "Stadium":8
+    },
+    {
+        "Id":37,
+        "TeamOne":25,
+        "TeamTwo":26,
+        "Date":"2018-06-18 12:00",
+        "Phase": 1,
+        "Stadium":7
+    },
+    {
+        "Id":38,
+        "TeamOne":27,
+        "TeamTwo":28,
+        "Date":"2018-06-18 15:00",
+        "Phase": 1,
+        "Stadium":5
+    },
+    {
+        "Id":39,
+        "TeamOne":25,
+        "TeamTwo":27,
+        "Date":"2018-06-23 09:00",
+        "Phase": 1,
+        "Stadium":11
+    },
+    {
+        "Id":40,
+        "TeamOne":28,
+        "TeamTwo":26,
+        "Date":"2018-06-24 09:00",
+        "Phase": 1,
+        "Stadium":12
+    },
+    {
+        "Id":41,
+        "TeamOne":26,
+        "TeamTwo":27,
+        "Date":"2018-06-28 15:00",
+        "Phase": 1,
+        "Stadium":10
+    },
+    {
+        "Id":42,
+        "TeamOne":28,
+        "TeamTwo":25,
+        "Date":"2018-06-28 15:00",
+        "Phase": 1,
+        "Stadium":9
+    },
+    {
+        "Id":43,
+        "TeamOne":29,
+        "TeamTwo":30,
+        "Date":"2018-06-19 09:00",
+        "Phase": 1,
+        "Stadium":11
+    },
+    {
+        "Id":44,
+        "TeamOne":31,
+        "TeamTwo":32,
+        "Date":"2018-06-19 12:00",
+        "Phase": 1,
+        "Stadium":10
+    },
+    {
+        "Id":45,
+        "TeamOne":32,
+        "TeamTwo":30,
+        "Date":"2018-06-24 12:00",
+        "Phase": 1,
+        "Stadium":2
+    },
+    {
+        "Id":46,
+        "TeamOne":29,
+        "TeamTwo":31,
+        "Date":"2018-06-24 15:00",
+        "Phase": 1,
+        "Stadium":8
+    },
+    {
+        "Id":47,
+        "TeamOne":30,
+        "TeamTwo":31,
+        "Date":"2018-06-28 11:00",
+        "Phase": 1,
+        "Stadium":6
+    },
+    {
+        "Id":48,
+        "TeamOne":32,
+        "TeamTwo":29,
+        "Date":"2018-06-28 11:00",
+        "Phase": 1,
+        "Stadium":5
+    },
+    {
+        "Id":49,
+        "TeamOne":null,
+        "TeamTwo":null,
+        "Date":"2018-06-30 11:00",
+        "Phase": 2,
+        "Stadium":8
+    },
+    {
+        "Id":50,
+        "TeamOne":null,
+        "TeamTwo":null,
+        "Date":"2018-06-30 15:00",
+        "Phase": 2,
+        "Stadium":7
+    },
+    {
+        "Id":51,
+        "TeamOne":null,
+        "TeamTwo":null,
+        "Date":"2018-07-01 11:00",
+        "Phase": 2,
+        "Stadium":1
+    },
+    {
+        "Id":52,
+        "TeamOne":null,
+        "TeamTwo":null,
+        "Date":"2018-07-01 15:00",
+        "Phase": 2,
+        "Stadium":12
+    },
+    {
+        "Id":53,
+        "TeamOne":null,
+        "TeamTwo":null,
+        "Date":"2018-07-02 11:00",
+        "Phase": 2,
+        "Stadium":6
+    },
+    {
+        "Id":54,
+        "TeamOne":null,
+        "TeamTwo":null,
+        "Date":"2018-07-02 15:00",
+        "Phase": 2,
+        "Stadium":4
+    },
+    {
+        "Id":55,
+        "TeamOne":null,
+        "TeamTwo":null,
+        "Date":"2018-07-03 11:00",
+        "Phase": 2,
+        "Stadium":3
+    },
+    {
+        "Id":56,
+        "TeamOne":null,
+        "TeamTwo":null,
+        "Date":"2018-07-03 15:00",
+        "Phase": 2,
+        "Stadium":11
+    },
+    {
+        "Id":57,
+        "TeamOne":null,
+        "TeamTwo":null,
+        "Date":"2018-07-06 11:00",
+        "Phase": 3,
+        "Stadium":12
+    },
+    {
+        "Id":58,
+        "TeamOne":null,
+        "TeamTwo":null,
+        "Date":"2018-07-06 15:00",
+        "Phase": 3,
+        "Stadium":8
+    },
+    {
+        "Id":59,
+        "TeamOne":null,
+        "TeamTwo":null,
+        "Date":"2018-07-07 11:00",
+        "Phase": 3,
+        "Stadium":6
+    },
+    {
+        "Id":60,
+        "TeamOne":null,
+        "TeamTwo":null,
+        "Date":"2018-07-07 15:00",
+        "Phase": 3,
+        "Stadium":7
+    },
+    {
+        "Id":61,
+        "TeamOne":null,
+        "TeamTwo":null,
+        "Date":"2018-07-10 15:00",
+        "Phase": 4,
+        "Stadium":3
+    },
+    {
+        "Id":62,
+        "TeamOne":null,
+        "TeamTwo":null,
+        "Date":"2018-07-11 15:00",
+        "Phase": 4,
+        "Stadium":1
+    },
+    {
+        "Id":63,
+        "TeamOne":null,
+        "TeamTwo":null,
+        "Date":"2018-07-14 11:00",
+        "Phase": 5,
+        "Stadium":3
+    },
+    {
+        "Id":64,
+        "TeamOne":null,
+        "TeamTwo":null,
+        "Date":"2018-07-15 12:00",
+        "Phase": 6,
+        "Stadium":1
     }
-
 ]
+
+
+
+
+
+
+
+
+
+
+
+
+
+

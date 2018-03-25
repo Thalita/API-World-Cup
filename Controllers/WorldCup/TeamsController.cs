@@ -25,11 +25,11 @@ namespace WorldCup2018.Controllers
         }
 
         // GET team info by team name
-        [HttpGet("team/{team}")]
+        [HttpGet("{teamName}")]
         public Team Get(string teamName)
         {
             var team = (from t in _context.Team.ToList()
-                        where t.Name == teamName
+                        where t.Name.ToLower() == teamName.ToLower()
                         select t).FirstOrDefault();
 
             return team;
@@ -40,7 +40,7 @@ namespace WorldCup2018.Controllers
         public IEnumerable<Player> GetPlayersByTeam(string team)
         {
             var players = (from p in _context.Player.ToList()
-                           where p.Team.Name == team
+                           where p.Team.Name.ToLower() == team.ToLower()
                            select p).ToList();
 
             return players;
@@ -51,7 +51,7 @@ namespace WorldCup2018.Controllers
         {
 
             List<Team> groupsTeams = (List<Team>)(from g in _context.Team.ToList()
-                                                  where g.Group == groupName
+                                                  where g.Group.ToLower() == groupName.ToLower()
                                                   select g).ToList();
 
             Dictionary<string, Team> dic = new Dictionary<string, Team>();

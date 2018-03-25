@@ -18,10 +18,10 @@ namespace WorldCup2018.Models.DataBase
         {
             _context = context;
             PopulateTeam();
-            PopulateMatches();
             PopulatePhases();
             PopulatePlayers();
             PopulateStadium();
+            PopulateMatches();
             PopulatePartners();
         }
         public static void PopulateTeam()

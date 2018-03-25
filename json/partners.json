@@ -1,0 +1,20 @@
+[
+    {
+        "Id": 1,
+        "Name": "Tizé Bar e Butequim",
+        "address": "R. Curitiba, 2205 - Lourdes, Belo Horizonte - MG",
+        "promotion": "5% de desconto na conta das primeiras 20 mulheres que chegarem!"
+    },
+    {
+        "Id": 2,
+        "name": "Bar Ideal",
+        "address": "R. Sergipe, 1187 - Savassi, Belo Horizonte - MG, 30130-170",
+        "promotion": "Rodada dupla de chopp no primeiro tempo do jogo!"
+    },
+    {
+        "Id": 3,
+        "name": "Butchery BBQ & Drinks",
+        "address": "R. Gonçalves Dias, 1922 - Lourdes, Belo Horizonte - MG, 30140-092",
+        "promotion": "1 long neck para as primeiras 15 mulheres!"
+    } 
+]

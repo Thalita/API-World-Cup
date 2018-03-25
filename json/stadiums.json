@@ -1,0 +1,50 @@
+[
+	{
+	    "Id": "1",
+		"Name": "Lujniki, Moscou"
+	},
+	{
+	    "Id": "2",
+		"Name": "Ecaterimburgo"
+	},
+	{
+	    "Id": "3",
+		"Name": "São Petesburgo"
+	},
+	{
+	    "Id": "4",
+		"Name": "Rostov de Don"
+	},
+	{
+	    "Id": "5",
+		"Name": "Volgogrado"
+	},
+	{
+	    "Id": "6",
+		"Name": "Samara"
+	},
+	{
+	    "Id": "7",
+		"Name": "Sóchi"
+	},
+	{
+	    "Id": "8",
+		"Name": "Cazã"
+	},
+	{
+	    "Id": "9",
+		"Name": "Kaliningrado"
+	},
+	{
+	    "Id": "10",
+		"Name": "Saransk"
+	},
+	{
+	    "Id": "11",
+		"Name": "Spartak, Moscou"
+	},
+	{
+	    "Id": "12",
+		"Name": "Ninji Novgorod"
+	}
+]

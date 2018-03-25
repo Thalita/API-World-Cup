@@ -1,0 +1,22 @@
+[
+    {
+        "Id": 1,
+        "Name": "Grupos"
+    },
+    {
+        "Id": 2,
+        "Name": "Oitavas de final"
+    },
+    {
+        "Id": 3,
+        "Name": "Quartas de final"
+    },
+    {
+        "Id": 4,
+        "Name": "Semi-final"
+    },
+    {
+        "Id": 5,
+        "Name": "Final"
+    }
+]

@@ -1,0 +1,226 @@
+[
+    {
+        "Id":1,
+        "Name":"Rússia",
+        "Coach": "Stanislav Tchertchesov",
+        "Group":"A",
+        "Flag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlzdGSGXFZ6qi8pfM5K3BRKNSrYrvZCFL5ClwU6e2z7PZrw9p3"
+    },
+    {
+        "Id":2 ,
+        "Name":"Arábia Saudita",
+        "Coach": "Juan Antonio Pizzi",
+        "Group":"A",
+        "Flag": "http://img.futbox.com/v1/98a/bd1/995/9e7/d345db8dbb83ab7d8050_zoom.png"
+    },
+    {
+        "Id":3,
+        "Name":"Egito",
+        "Coach": "Héctor Cúper",
+        "Group":"A",
+        "Flag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5Kn3OJKN9Ur0QWLekSRt5TrXwr0CJQqweTJgywRVBiGVJDBB6"
+    },
+    {
+        "Id":4,
+        "Name":"Uruguai",
+        "Coach": "Óscar Tabárez",
+        "Group":"A",
+        "Flag": "http://geo5.net/wp-content/uploads/2011/06/bandeira-do-uruguai-2000px.png"
+    },
+    {
+        "Id":5,
+        "Name":"Marrocos",
+        "Coach": "Hervé Renard",
+        "Group":"B",
+        "Flag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUD3JADTkc7hvSZpd7uVlPC0IlLJA4SkyOjTHSvafuUxXNY2AV"
+    },
+    {
+        "Id":6 ,
+        "Name":"Irã",
+        "Coach": "Carlos Queiroz",
+        "Group":"B",
+        "Flag": "data:image/png;base64,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"
+    },
+    {
+        "Id":7,
+        "Name":"Portugal",
+        "Coach": "Fernando Santos",
+        "Group":"B",
+        "Flag": "data:image/png;base64,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"
+    },
+    {
+        "Id":8 ,
+        "Name":"Espanha",
+        "Coach": "Julen Lopetegui",
+        "Group":"B",
+        "Flag": "data:image/png;base64,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"
+    },
+    {
+        "Id":9,
+        "Name":"França",
+        "Coach": "Didier Deschamps",
+        "Group":"C",
+        "Flag": ""
+    },
+    {
+        "Id":10,
+        "Name":"Austrália",
+        "Coach": "Bert van Marwijk",
+        "Group":"C",
+        "Flag": ""
+    },
+    {
+        "Id":11,
+        "Name":"Peru",
+        "Coach": "Ricardo Gareca",
+        "Group":"C",
+        "Flag": ""
+    },
+    {
+        "Id":12,
+        "Name":"Dinamarca",
+        "Coach": "Åge Hareide",
+        "Group":"C",
+        "Flag": ""
+    },
+    {
+        "Id":13,
+        "Name":"Argentina",
+        "Coach": "Jorge Sampaoli",
+        "Group":"D",
+        "Flag": ""
+    },
+    {
+        "Id":14 ,
+        "Name":"Islândia",
+        "Coach": "Heimir Hallgrímsson",
+        "Group":"D",
+        "Flag": ""
+    },
+    {
+        "Id":15 ,
+        "Name":"Croácia",
+        "Coach": "Ante Čačić, Zlatko Dalić",
+        "Group":"D",
+        "Flag": ""
+    },
+    {
+        "Id":16 ,
+        "Name":"Nigéria",
+        "Coach": "Salisu Yusuf",
+        "Group":"D",
+        "Flag": ""
+    },
+    {
+        "Id":17,
+        "Name":"Costa Rica",
+        "Coach": "Óscar Ramírez",
+        "Group":"E",
+        "Flag": "http://www.planalto.gov.br/ccivil_03/constituicao/bandeira/internacional/costarica.jpg"
+    },
+    {
+        "Id":18,
+        "Name":"Sérvia",
+        "Coach": "Mladen Krstajić",
+        "Group":"E",
+        "Flag": "http://www.bandeiras-nacionais.com/media/flags/flagge-serbien.gif"
+    },
+    {
+        "Id":19,
+        "Name":"Brasil",
+        "Coach": "Tite",
+        "Group":"E",
+        "Flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/2000px-Flag_of_Brazil.svg.png"
+    },
+    {
+        "Id":20,
+        "Name":"Suíça",
+        "Coach": "Vladimir Petković",
+        "Group":"E",
+        "Flag": "https://i.ytimg.com/vi/iJs-Qxf3LWY/maxresdefault.jpg"
+    },
+    {
+        "Id":21,
+        "Name":"Alemanha",
+        "Coach": "Joachim Löw",
+        "Group":"F",
+        "Flag": ""
+    },
+    {
+        "Id":22,
+        "Name":"México",
+        "Coach": "Juan Carlos Osorio",
+        "Group":"F",
+        "Flag": ""
+    },
+    {
+        "Id":23,
+        "Name":"Suécia",
+        "Coach": "Jan Andersson",
+        "Group":"F",
+        "Flag": ""
+    },
+    {
+        "Id":24 ,
+        "Name":"Coréia do Sul",
+        "Coach": "Shin Tae-yong",
+        "Group":"F",
+        "Flag": ""
+    },
+    {
+        "Id":25,
+        "Name":"Bélgica",
+        "Coach": "Roberto Martínez",
+        "Group":"G",
+        "Flag": ""
+    },
+    {
+        "Id":26,
+        "Name":"Panamá",
+        "Coach": "Hernán Darío Gómez",
+        "Group":"G",
+        "Flag": ""
+    },
+    {
+        "Id":27 ,
+        "Name":"Tunísia",
+        "Coach": "Nabil Maâloul",
+        "Group":"G",
+        "Flag": ""
+    },
+    {
+        "Id":28 ,
+        "Name":"Inglaterra",
+        "Coach": "Gareth Southgate",
+        "Group":"G",
+        "Flag": ""
+    },
+    {
+        "Id":29,
+        "Name":"Polônia",
+        "Coach": "Adam Nawałka",
+        "Group":"H",
+        "Flag": ""
+    },
+    {
+        "Id":30,
+        "Name":"Senegal",
+        "Coach": "Aliou Cissé",
+        "Group":"H",
+        "Flag": ""
+    },
+    {
+        "Id":31,
+        "Name":"Colômbia",
+        "Coach": "José Pékerman",
+        "Group":"H",
+        "Flag": ""
+    },
+    {
+        "Id":32,
+        "Name":"Japão",
+        "Coach": "José Pékerman",
+        "Group":"H",
+        "Flag": ""
+    }
+]
